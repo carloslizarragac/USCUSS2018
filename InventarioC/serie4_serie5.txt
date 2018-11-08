@@ -1,0 +1,437 @@
+Zone name: Zone 0
+
+      0 Class 0                                104811068   0.00    26202767.000
+      1 Agricola permanente                            0   0.00           0.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 1
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                      7230388  98.43     1807597.000
+      2 Arido-Semiárido (mezquital)                 2626   0.04         656.500
+      3 Asentamientos                              13800   0.19        3450.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                1260   0.02         315.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                       97   0.00          24.250
+     10 Matorral desertico                          2569   0.03         642.250
+     11 Matorral Xerofilo Lenoso Secundario         2453   0.03         613.250
+     12 NA                                          8841   0.12        2210.250
+     13 Otras tierras                               3970   0.05         992.500
+     14 Pastizal                                    4188   0.06        1047.000
+     15 Selva Baja Caducifolia Primaria             5396   0.07        1349.000
+     16 Selva Baja Caducifolia Secundaria          69720   0.95       17430.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario          52   0.00          13.000
+
+
+Zone name: Zone 2
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                       209814   2.79       52453.500
+      2 Arido-Semiárido (mezquital)              7238726  96.17     1809681.500
+      3 Asentamientos                               4375   0.06        1093.750
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                          1357   0.02         339.250
+     11 Matorral Xerofilo Lenoso Secundario         3998   0.05         999.500
+     12 NA                                          1250   0.02         312.500
+     13 Otras tierras                                551   0.01         137.750
+     14 Pastizal                                   66460   0.88       16615.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria            109   0.00          27.250
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario         153   0.00          38.250
+
+
+Zone name: Zone 3
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                          597   0.21         149.250
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                             279668  99.69       69917.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             5   0.00           1.250
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                           256   0.09          64.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 4
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                            0   0.00           0.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                            1422 100.00         355.500
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 5
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                         1518   0.21         379.500
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario              735662  99.78      183915.500
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                     116   0.02          29.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 6
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                          236   0.00          59.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                2614   0.04         653.500
+      6 Bosque de Encino Primario                6476301  99.70     1619075.250
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                               2051   0.03         512.750
+     14 Pastizal                                   14312   0.22        3578.000
+     15 Selva Baja Caducifolia Primaria              238   0.00          59.500
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 7
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                         1578   0.21         394.500
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                 237   0.03          59.250
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario               738195  99.38      184548.750
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                267   0.04          66.750
+     14 Pastizal                                    2505   0.34         626.250
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 8
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                          336   0.34          84.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario        97459  99.66       24364.750
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 9
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                            0   0.00           0.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                    43495  93.32       10873.750
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                          2531   5.43         632.750
+     13 Otras tierras                                339   0.73          84.750
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario         245   0.53          61.250
+
+
+Zone name: Zone 10
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                        71595   0.30       17898.750
+      2 Arido-Semiárido (mezquital)                 7896   0.03        1974.000
+      3 Asentamientos                                795   0.00         198.750
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                      156   0.00          39.000
+     10 Matorral desertico                      23466013  99.51     5866503.250
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                           248   0.00          62.000
+     13 Otras tierras                               9184   0.04        2296.000
+     14 Pastizal                                   24542   0.10        6135.500
+     15 Selva Baja Caducifolia Primaria               19   0.00           4.750
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  1   0.00           0.250
+     18 Vegetacion Hidrofila Lenoso Primario        1288   0.01         322.000
+
+
+Zone name: Zone 11
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                        97917   1.86       24479.250
+      2 Arido-Semiárido (mezquital)                   69   0.00          17.250
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario      5144700  97.93     1286175.000
+     12 NA                                            26   0.00           6.500
+     13 Otras tierras                                556   0.01         139.000
+     14 Pastizal                                   10162   0.19        2540.500
+     15 Selva Baja Caducifolia Primaria              106   0.00          26.500
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 12
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                          363   0.16          90.750
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                      198   0.09          49.500
+     10 Matorral desertico                             2   0.00           0.500
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                        230384  99.65       57596.000
+     13 Otras tierras                                 33   0.01           8.250
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario         221   0.10          55.250
+
+
+Zone name: Zone 13
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                         7797   0.15        1949.250
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                     1812   0.04         453.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                          5069   0.10        1267.250
+     13 Otras tierras                            5140087  99.70     1285021.750
+     14 Pastizal                                     362   0.01          90.500
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario         384   0.01          96.000
+
+
+Zone name: Zone 14
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                        85907   1.39       21476.750
+      2 Arido-Semiárido (mezquital)                 1043   0.02         260.750
+      3 Asentamientos                               1397   0.02         349.250
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                   3279   0.05         819.750
+      7 Bosque de Encino Secundario                   58   0.00          14.500
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                          1121   0.02         280.250
+     11 Matorral Xerofilo Lenoso Secundario          114   0.00          28.500
+     12 NA                                           113   0.00          28.250
+     13 Otras tierras                                913   0.01         228.250
+     14 Pastizal                                 6087760  98.45     1521940.000
+     15 Selva Baja Caducifolia Primaria             1530   0.02         382.500
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                135   0.00          33.750
+     18 Vegetacion Hidrofila Lenoso Primario         289   0.00          72.250
+
+
+Zone name: Zone 15
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                       146620   2.14       36655.000
+      2 Arido-Semiárido (mezquital)                    3   0.00           0.750
+      3 Asentamientos                               1040   0.02         260.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                     56   0.00          14.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                            15   0.00           3.750
+     13 Otras tierras                                801   0.01         200.250
+     14 Pastizal                                   39353   0.58        9838.250
+     15 Selva Baja Caducifolia Primaria          6644525  97.19     1661131.250
+     16 Selva Baja Caducifolia Secundaria           4313   0.06        1078.250
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 16
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                       199309  19.36       49827.250
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                892   0.09         223.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario         2207   0.21         551.750
+     12 NA                                            61   0.01          15.250
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                   55717   5.41       13929.250
+     15 Selva Baja Caducifolia Primaria              898   0.09         224.500
+     16 Selva Baja Caducifolia Secundaria         770560  74.84      192640.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 17
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                            0   0.00           0.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  2   0.00           0.500
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario              97311 100.00       24327.750
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+
+Zone name: Zone 18
+
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                        37767   3.11        9441.750
+      2 Arido-Semiárido (mezquital)                  532   0.04         133.000
+      3 Asentamientos                                775   0.06         193.750
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                     8816   0.73        2204.000
+     10 Matorral desertico                          2962   0.24         740.500
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                          7138   0.59        1784.500
+     13 Otras tierras                               2501   0.21         625.250
+     14 Pastizal                                    1701   0.14         425.250
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario     1152284  94.88      288071.000
+
+

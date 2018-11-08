@@ -1,0 +1,435 @@
+Zone nam,e: Zone 0,,,
+,,,,
+0,Class 0,104811068,0,26202767
+1,Agricola permanente,0,0,0
+2,Arido-Semiárido (mezquital),0,0,0
+3,Asentamientos,0,0,0
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,0,0,0
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,0,0,0
+13,Otras tierras,0,0,0
+14,Pastizal,0,0,0
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 1,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,6332398,98.81,1583099.5
+2,Arido-Semiárido (mezquital),9274,0.14,2318.5
+3,Asentamientos,7351,0.11,1837.75
+4,Bosque Cultivado,48,0,12
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,1,0,0.25
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,472,0.01,118
+9,Manglar,0,0,0
+10,Matorral desertico,13446,0.21,3361.5
+11,Matorral Xerofilo Lenoso Secundario,2907,0.05,726.75
+12,NA,253,0,63.25
+13,Otras tierras,837,0.01,209.25
+14,Pastizal,7288,0.11,1822
+15,Selva Baja Caducifolia Primaria,28354,0.44,7088.5
+16,Selva Baja Caducifolia Secundaria,3654,0.06,913.5
+17,Selva Subcaducifolia Primario,862,0.01,215.5
+18,Vegetacion Hidrofila Lenoso Primario,1337,0.02,334.25
+,,,,
+,,,,
+Zone nam,e: Zone 2,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,258055,3.32,64513.75
+2,Arido-Semiárido (mezquital),7494733,96.32,1873683.25
+3,Asentamientos,6711,0.09,1677.75
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,7761,0.1,1940.25
+11,Matorral Xerofilo Lenoso Secundario,4867,0.06,1216.75
+12,NA,43,0,10.75
+13,Otras tierras,254,0,63.5
+14,Pastizal,8620,0.11,2155
+15,Selva Baja Caducifolia Primaria,3,0,0.75
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,31,0,7.75
+18,Vegetacion Hidrofila Lenoso Primario,229,0,57.25
+,,,,
+,,,,
+Zone nam,e: Zone 3,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,319,0.14,79.75
+2,Arido-Semiárido (mezquital),24,0.01,6
+3,Asentamientos,233581,99.85,58395.25
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,3,0,0.75
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,3,0,0.75
+13,Otras tierras,1,0,0.25
+14,Pastizal,1,0,0.25
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,2,0,0.5
+,,,,
+,,,,
+Zone nam,e: Zone 4,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,51,3.58,12.75
+2,Arido-Semiárido (mezquital),0,0,0
+3,Asentamientos,0,0,0
+4,Bosque Cultivado,1374,96.42,343.5
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,0,0,0
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,0,0,0
+13,Otras tierras,0,0,0
+14,Pastizal,0,0,0
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 5,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,0,0,0
+2,Arido-Semiárido (mezquital),0,0,0
+3,Asentamientos,0,0,0
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,735120,99.98,183780
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,0,0,0
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,0,0,0
+13,Otras tierras,0,0,0
+14,Pastizal,162,0.02,40.5
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 6,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,2876,0.04,719
+2,Arido-Semiárido (mezquital),0,0,0
+3,Asentamientos,863,0.01,215.75
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,2175,0.03,543.75
+6,Bosque de Encino Primario,6491262,99.55,1622815.5
+7,Bosque de Encino Secundario,14912,0.23,3728
+8,Bosque Mesofilo de Montana Primario,743,0.01,185.75
+9,Manglar,0,0,0
+10,Matorral desertico,1,0,0.25
+11,Matorral Xerofilo Lenoso Secundario,1709,0.03,427.25
+12,NA,55,0,13.75
+13,Otras tierras,2744,0.04,686
+14,Pastizal,3443,0.05,860.75
+15,Selva Baja Caducifolia Primaria,60,0,15
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 7,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,0,0,0
+2,Arido-Semiárido (mezquital),0,0,0
+3,Asentamientos,66,0.01,16.5
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,1,0,0.25
+6,Bosque de Encino Primario,6,0,1.5
+7,Bosque de Encino Secundario,727870,99.99,181967.5
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,0,0,0
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,0,0,0
+13,Otras tierras,28,0,7
+14,Pastizal,0,0,0
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 8,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,1752,1.8,438
+2,Arido-Semiárido (mezquital),0,0,0
+3,Asentamientos,26,0.03,6.5
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,95572,98.17,23893
+9,Manglar,0,0,0
+10,Matorral desertico,0,0,0
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,5,0.01,1.25
+13,Otras tierras,0,0,0
+14,Pastizal,0,0,0
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 9,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,0,0,0
+2,Arido-Semiárido (mezquital),0,0,0
+3,Asentamientos,0,0,0
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,46607,100,11651.75
+10,Matorral desertico,0,0,0
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,1,0,0.25
+13,Otras tierras,1,0,0.25
+14,Pastizal,0,0,0
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 10,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,325680,1.36,81420
+2,Arido-Semiárido (mezquital),15273,0.06,3818.25
+3,Asentamientos,12599,0.05,3149.75
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,297,0,74.25
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,1,0,0.25
+10,Matorral desertico,23472916,98.17,5868229
+11,Matorral Xerofilo Lenoso Secundario,2,0,0.5
+12,NA,232,0,58
+13,Otras tierras,14668,0.06,3667
+14,Pastizal,66380,0.28,16595
+15,Selva Baja Caducifolia Primaria,1,0,0.25
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,1356,0.01,339
+18,Vegetacion Hidrofila Lenoso Primario,33,0,8.25
+,,,,
+,,,,
+Zone nam,e: Zone 11,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,7675,0.14,1918.75
+2,Arido-Semiárido (mezquital),5575,0.1,1393.75
+3,Asentamientos,141,0,35.25
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,130,0,32.5
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,76330,1.43,19082.5
+11,Matorral Xerofilo Lenoso Secundario,5244021,98.29,1311005.25
+12,NA,1,0,0.25
+13,Otras tierras,30,0,7.5
+14,Pastizal,107,0,26.75
+15,Selva Baja Caducifolia Primaria,11,0,2.75
+16,Selva Baja Caducifolia Secundaria,7,0,1.75
+17,Selva Subcaducifolia Primario,1177,0.02,294.25
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 12,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,9180,3.83,2295
+2,Arido-Semiárido (mezquital),2,0,0.5
+3,Asentamientos,61,0.03,15.25
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,1,0,0.25
+10,Matorral desertico,12,0.01,3
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,230375,96.13,57593.75
+13,Otras tierras,7,0,1.75
+14,Pastizal,0,0,0
+15,Selva Baja Caducifolia Primaria,10,0,2.5
+16,Selva Baja Caducifolia Secundaria,1,0,0.25
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,12,0.01,3
+,,,,
+,,,,
+Zone nam,e: Zone 13,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,23631,0.46,5907.75
+2,Arido-Semiárido (mezquital),172,0,43
+3,Asentamientos,12664,0.24,3166
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,6568,0.13,1642
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,24,0,6
+13,Otras tierras,5127018,98.92,1281754.5
+14,Pastizal,3341,0.06,835.25
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,1549,0.03,387.25
+18,Vegetacion Hidrofila Lenoso Primario,7991,0.15,1997.75
+,,,,
+,,,,
+Zone nam,e: Zone 14,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,4197,0.09,1049.25
+2,Arido-Semiárido (mezquital),50,0,12.5
+3,Asentamientos,2724,0.06,681
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,3372,0.08,843
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primar,1008,0.02,252
+9,Manglar,0,0,0
+10,Matorral desertico,371,0.01,92.75
+11,Matorral Xerofilo Lenoso Secundario,1,0,0.25
+12,NA,60,0,15
+13,Otras tierras,1005,0.02,251.25
+14,Pastizal,4454474,99.71,1113618.5
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,6,0,1.5
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 15,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,60490,0.88,15122.5
+2,Arido-Semiárido (mezquital),3,0,0.75
+3,Asentamientos,81,0,20.25
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,508,0.01,127
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,2,0,0.5
+11,Matorral Xerofilo Lenoso Secundario,15,0,3.75
+12,NA,52,0,13
+13,Otras tierras,0,0,0
+14,Pastizal,1853,0.03,463.25
+15,Selva Baja Caducifolia Primaria,6799148,99.06,1699787
+16,Selva Baja Caducifolia Secundaria,921,0.01,230.25
+17,Selva Subcaducifolia Primario,345,0.01,86.25
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 16,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,83531,7.53,20882.75
+2,Arido-Semiárido (mezquital),12,0,3
+3,Asentamientos,0,0,0
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,0,0,0
+11,Matorral Xerofilo Lenoso Secundario,14,0,3.5
+12,NA,3,0,0.75
+13,Otras tierras,0,0,0
+14,Pastizal,1155,0.1,288.75
+15,Selva Baja Caducifolia Primaria,23,0,5.75
+16,Selva Baja Caducifolia Secundaria,1025060,92.36,256265
+17,Selva Subcaducifolia Primario,0,0,0
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 17,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,2735,2.88,683.75
+2,Arido-Semiárido (mezquital),173,0.18,43.25
+3,Asentamientos,22,0.02,5.5
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,0,0,0
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,0,0,0
+10,Matorral desertico,163,0.17,40.75
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,43,0.05,10.75
+13,Otras tierras,0,0,0
+14,Pastizal,67,0.07,16.75
+15,Selva Baja Caducifolia Primaria,0,0,0
+16,Selva Baja Caducifolia Secundaria,0,0,0
+17,Selva Subcaducifolia Primario,91757,96.63,22939.25
+18,Vegetacion Hidrofila Lenoso Primario,0,0,0
+,,,,
+,,,,
+Zone nam,e: Zone 18,,,
+,,,,
+0,Class 0,0,0,0
+1,Agricola permanente,232790,7.5,58197.5
+2,Arido-Semiárido (mezquital),1502,0.05,375.5
+3,Asentamientos,3636,0.12,909
+4,Bosque Cultivado,0,0,0
+5,Bosque de Coniferas Primario,0,0,0
+6,Bosque de Encino Primario,176,0.01,44
+7,Bosque de Encino Secundario,0,0,0
+8,Bosque Mesofilo de Montana Primario,0,0,0
+9,Manglar,1,0,0.25
+10,Matorral desertico,4164,0.13,1041
+11,Matorral Xerofilo Lenoso Secundario,0,0,0
+12,NA,51,0,12.75
+13,Otras tierras,8918,0.29,2229.5
+14,Pastizal,1636768,52.76,409192
+15,Selva Baja Caducifolia Primaria,9116,0.29,2279
+16,Selva Baja Caducifolia Secundaria,1,0,0.25
+17,Selva Subcaducifolia Primario,230,0.01,57.5
+18,Vegetacion Hidrofila Lenoso Primario,1204872,38.84,301218

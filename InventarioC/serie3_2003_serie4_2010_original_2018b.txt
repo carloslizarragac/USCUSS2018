@@ -1,0 +1,684 @@
+﻿Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number 0
+Zone name: Zone 0
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                104811068   0.00    26202767.000
+      1 Agricola permanente                            0   0.00           0.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                                0   0.00          0.000
+
+Zonal Statistics:
+Majority:                0        Mean:                    0.0000
+Median:                  0        Minimum:                 0
+Maximum:                 0        Range:                   0
+Diversity:               0        Std. Deviation:          0.0000
+Majority Count:          0        Majority %:              0.0000
+Sum:                     0
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Agricola permanente                                  
+Zone name: Zone 1
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                      6332398  98.81     1583099.500
+      2 Arido-Semiárido (mezquital)                 9274   0.14        2318.500
+      3 Asentamientos                               7351   0.11        1837.750
+      4 Bosque Cultivado                              48   0.00          12.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      1   0.00           0.250
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario          472   0.01         118.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                         13446   0.21        3361.500
+     11 Matorral Xerofilo Lenoso Secundario         2907   0.05         726.750
+     12 NA                                           253   0.00          63.250
+     13 Otras tierras                                837   0.01         209.250
+     14 Pastizal                                    7288   0.11        1822.000
+     15 Selva Baja Caducifolia Primaria            28354   0.44        7088.500
+     16 Selva Baja Caducifolia Secundaria           3654   0.06         913.500
+     17 Selva Subcaducifolia Primario                862   0.01         215.500
+     18 Vegetacion Hidrofila Lenoso Primario        1337   0.02         334.250
+
+  Total                                          6408482 100.00    1602120.500
+
+Zonal Statistics:
+Majority:                1        Mean:                    1.1207
+Median:                  1        Minimum:                 1
+Maximum:                18        Range:                  18
+Diversity:              15        Std. Deviation:          1.2314
+Majority Count:    6332398        Majority %:             98.8128
+Sum:               7181853
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Arido-Semiárido (mezquital)                                  
+Zone name: Zone 2
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                       258055   3.32       64513.750
+      2 Arido-Semiárido (mezquital)              7494733  96.32     1873683.250
+      3 Asentamientos                               6711   0.09        1677.750
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                          7761   0.10        1940.250
+     11 Matorral Xerofilo Lenoso Secundario         4867   0.06        1216.750
+     12 NA                                            43   0.00          10.750
+     13 Otras tierras                                254   0.00          63.500
+     14 Pastizal                                    8620   0.11        2155.000
+     15 Selva Baja Caducifolia Primaria                3   0.00           0.750
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                 31   0.00           7.750
+     18 Vegetacion Hidrofila Lenoso Primario         229   0.00          57.250
+
+  Total                                          7781307 100.00    1945326.750
+
+Zonal Statistics:
+Majority:                2        Mean:                    1.9956
+Median:                  2        Minimum:                 1
+Maximum:                18        Range:                  18
+Diversity:              11        Std. Deviation:          0.5666
+Majority Count:    7494733        Majority %:             96.3171
+Sum:              15527993
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Asentamientos
+Zone name: Zone 3
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                          319   0.14          79.750
+      2 Arido-Semiárido (mezquital)                   24   0.01           6.000
+      3 Asentamientos                             233581  99.85       58395.250
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             3   0.00           0.750
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             3   0.00           0.750
+     13 Otras tierras                                  1   0.00           0.250
+     14 Pastizal                                       1   0.00           0.250
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           2   0.00           0.500
+
+  Total                                           233934 100.00      58483.500
+
+Zonal Statistics:
+Majority:                3        Mean:                    2.9976
+Median:                  3        Minimum:                 1
+Maximum:                18        Range:                  18
+Diversity:               8        Std. Deviation:          0.1004
+Majority Count:     233581        Majority %:             99.8491
+Sum:                701239
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Bosque Cultivado                                     
+Zone name: Zone 4
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                           51   3.58          12.750
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                            1374  96.42         343.500
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                             1425 100.00        356.250
+
+Zonal Statistics:
+Majority:                4        Mean:                    3.8926
+Median:                  4        Minimum:                 1
+Maximum:                 4        Range:                   4
+Diversity:               2        Std. Deviation:          0.5575
+Majority Count:       1374        Majority %:             96.4211
+Sum:                  5547
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Bosque de Coniferas Primario                                   
+Zone name: Zone 5
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                            0   0.00           0.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario              735120  99.98      183780.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                     162   0.02          40.500
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                           735282 100.00     183820.500
+
+Zonal Statistics:
+Majority:                5        Mean:                    5.0020
+Median:                  5        Minimum:                 5
+Maximum:                14        Range:                  10
+Diversity:               2        Std. Deviation:          0.1336
+Majority Count:     735120        Majority %:             99.9780
+Sum:               3677868
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Bosque de Encino Primario                                  
+Zone name: Zone 6
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                         2876   0.04         719.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                863   0.01         215.750
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                2175   0.03         543.750
+      6 Bosque de Encino Primario                6491262  99.55     1622815.500
+      7 Bosque de Encino Secundario                14912   0.23        3728.000
+      8 Bosque Mesofilo de Montana Primario          743   0.01         185.750
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             1   0.00           0.250
+     11 Matorral Xerofilo Lenoso Secundario         1709   0.03         427.250
+     12 NA                                            55   0.00          13.750
+     13 Otras tierras                               2744   0.04         686.000
+     14 Pastizal                                    3443   0.05         860.750
+     15 Selva Baja Caducifolia Primaria               60   0.00          15.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                          6520843 100.00    1630210.750
+
+Zonal Statistics:
+Majority:                6        Mean:                    6.0082
+Median:                  6        Minimum:                 1
+Maximum:                15        Range:                  15
+Diversity:              12        Std. Deviation:          0.2779
+Majority Count:    6491262        Majority %:             99.5464
+Sum:              39178483
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Bosque de Encino Secundario                                   
+Zone name: Zone 7
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                            0   0.00           0.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                 66   0.01          16.500
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   1   0.00           0.250
+      6 Bosque de Encino Primario                      6   0.00           1.500
+      7 Bosque de Encino Secundario               727870  99.99      181967.500
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             0   0.00           0.000
+     13 Otras tierras                                 28   0.00           7.000
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                           727971 100.00     181992.750
+
+Zonal Statistics:
+Majority:                7        Mean:                    6.9999
+Median:                  7        Minimum:                 3
+Maximum:                13        Range:                  11
+Diversity:               5        Std. Deviation:          0.0534
+Majority Count:     727870        Majority %:             99.9861
+Sum:               5095693
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Bosque Mesofilo de Montana Primario                                    
+Zone name: Zone 8
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                         1752   1.80         438.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                 26   0.03           6.500
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario        95572  98.17       23893.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             5   0.01           1.250
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                            97355 100.00      24338.750
+
+Zonal Statistics:
+Majority:                8        Mean:                    7.8729
+Median:                  8        Minimum:                 1
+Maximum:                12        Range:                  12
+Diversity:               4        Std. Deviation:          0.9344
+Majority Count:      95572        Majority %:             98.1686
+Sum:                766466
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Manglar
+Zone name: Zone 9
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                            0   0.00           0.000
+      2 Arido-Semiárido (mezquital)                    0   0.00           0.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                    46607 100.00       11651.750
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                             1   0.00           0.250
+     13 Otras tierras                                  1   0.00           0.250
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                            46609 100.00      11652.250
+
+Zonal Statistics:
+Majority:                9        Mean:                    9.0002
+Median:                  9        Minimum:                 9
+Maximum:                13        Range:                   5
+Diversity:               3        Std. Deviation:          0.0232
+Majority Count:      46607        Majority %:             99.9957
+Sum:                419488
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Matorral desertico                                
+Zone name: Zone 10
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                       325680   1.36       81420.000
+      2 Arido-Semiárido (mezquital)                15273   0.06        3818.250
+      3 Asentamientos                              12599   0.05        3149.750
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                    297   0.00          74.250
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        1   0.00           0.250
+     10 Matorral desertico                      23472916  98.17     5868229.000
+     11 Matorral Xerofilo Lenoso Secundario            2   0.00           0.500
+     12 NA                                           232   0.00          58.000
+     13 Otras tierras                              14668   0.06        3667.000
+     14 Pastizal                                   66380   0.28       16595.000
+     15 Selva Baja Caducifolia Primaria                1   0.00           0.250
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario               1356   0.01         339.000
+     18 Vegetacion Hidrofila Lenoso Primario          33   0.00           8.250
+
+  Total                                         23909438 100.00    5977359.500
+
+Zonal Statistics:
+Majority:               10        Mean:                    9.8819
+Median:                 10        Minimum:                 1
+Maximum:                18        Range:                  18
+Diversity:              13        Std. Deviation:          1.0996
+Majority Count:   23472916        Majority %:             98.1743
+Sum:             236271445
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Matorral Xerofilo Lenoso Secundario                                 
+Zone name: Zone 11
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                         7675   0.14        1918.750
+      2 Arido-Semiárido (mezquital)                 5575   0.10        1393.750
+      3 Asentamientos                                141   0.00          35.250
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                    130   0.00          32.500
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                         76330   1.43       19082.500
+     11 Matorral Xerofilo Lenoso Secundario      5244021  98.29     1311005.250
+     12 NA                                             1   0.00           0.250
+     13 Otras tierras                                 30   0.00           7.500
+     14 Pastizal                                     107   0.00          26.750
+     15 Selva Baja Caducifolia Primaria               11   0.00           2.750
+     16 Selva Baja Caducifolia Secundaria              7   0.00           1.750
+     17 Selva Subcaducifolia Primario               1177   0.02         294.250
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                          5335205 100.00    1333801.250
+
+Zonal Statistics:
+Majority:               11        Mean:                   10.9630
+Median:                 11        Minimum:                 1
+Maximum:                17        Range:                  17
+Diversity:              12        Std. Deviation:          0.5019
+Majority Count:    5244021        Majority %:             98.2909
+Sum:              58489745
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number NA
+Zone name: Zone 12
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                         9180   3.83        2295.000
+      2 Arido-Semiárido (mezquital)                    2   0.00           0.500
+      3 Asentamientos                                 61   0.03          15.250
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        1   0.00           0.250
+     10 Matorral desertico                            12   0.01           3.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                        230375  96.13       57593.750
+     13 Otras tierras                                  7   0.00           1.750
+     14 Pastizal                                       0   0.00           0.000
+     15 Selva Baja Caducifolia Primaria               10   0.00           2.500
+     16 Selva Baja Caducifolia Secundaria              1   0.00           0.250
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario          12   0.01           3.000
+
+  Total                                           239661 100.00      59915.250
+
+Zonal Statistics:
+Majority:               12        Mean:                   11.5766
+Median:                 12        Minimum:                 1
+Maximum:                18        Range:                  18
+Diversity:              10        Std. Deviation:          2.1165
+Majority Count:     230375        Majority %:             96.1254
+Sum:               2774469
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Otras tierras                                 
+Zone name: Zone 13
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                        23631   0.46        5907.750
+      2 Arido-Semiárido (mezquital)                  172   0.00          43.000
+      3 Asentamientos                              12664   0.24        3166.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                          6568   0.13        1642.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                            24   0.00           6.000
+     13 Otras tierras                            5127018  98.92     1281754.500
+     14 Pastizal                                    3341   0.06         835.250
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario               1549   0.03         387.250
+     18 Vegetacion Hidrofila Lenoso Primario        7991   0.15        1997.750
+
+  Total                                          5182958 100.00    1295739.500
+
+Zonal Statistics:
+Majority:               13        Mean:                   12.9262
+Median:                 13        Minimum:                 1
+Maximum:                18        Range:                  18
+Diversity:               9        Std. Deviation:          0.9772
+Majority Count:    5127018        Majority %:             98.9207
+Sum:              66996114
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Pastizal
+Zone name: Zone 14
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                         4197   0.09        1049.250
+      2 Arido-Semiárido (mezquital)                   50   0.00          12.500
+      3 Asentamientos                               2724   0.06         681.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                   3372   0.08         843.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primar           1008   0.02         252.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                           371   0.01          92.750
+     11 Matorral Xerofilo Lenoso Secundario            1   0.00           0.250
+     12 NA                                            60   0.00          15.000
+     13 Otras tierras                               1005   0.02         251.250
+     14 Pastizal                                 4454474  99.71     1113618.500
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario                  6   0.00           1.500
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                          4467268 100.00    1116817.000
+
+Zonal Statistics:
+Majority:               14        Mean:                   13.9730
+Median:                 14        Minimum:                 1
+Maximum:                17        Range:                  17
+Diversity:              11        Std. Deviation:          0.5399
+Majority Count:    4454474        Majority %:             99.7136
+Sum:              62421009
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Selva Baja Caducifolia Primaria                                 
+Zone name: Zone 15
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                        60490   0.88       15122.500
+      2 Arido-Semiárido (mezquital)                    3   0.00           0.750
+      3 Asentamientos                                 81   0.00          20.250
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                    508   0.01         127.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             2   0.00           0.500
+     11 Matorral Xerofilo Lenoso Secundario           15   0.00           3.750
+     12 NA                                            52   0.00          13.000
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                    1853   0.03         463.250
+     15 Selva Baja Caducifolia Primaria          6799148  99.06     1699787.000
+     16 Selva Baja Caducifolia Secundaria            921   0.01         230.250
+     17 Selva Subcaducifolia Primario                345   0.01          86.250
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                          6863418 100.00    1715854.500
+
+Zonal Statistics:
+Majority:               15        Mean:                   14.8757
+Median:                 15        Minimum:                 1
+Maximum:                17        Range:                  17
+Diversity:              11        Std. Deviation:          1.3117
+Majority Count:    6799148        Majority %:             99.0636
+Sum:             102098359
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Selva Baja Caducifolia Primaria                                      
+Zone name: Zone 16
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                        83531   7.53       20882.750
+      2 Arido-Semiárido (mezquital)                   12   0.00           3.000
+      3 Asentamientos                                  0   0.00           0.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                             0   0.00           0.000
+     11 Matorral Xerofilo Lenoso Secundario           14   0.00           3.500
+     12 NA                                             3   0.00           0.750
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                    1155   0.10         288.750
+     15 Selva Baja Caducifolia Primaria               23   0.00           5.750
+     16 Selva Baja Caducifolia Secundaria        1025060  92.36      256265.000
+     17 Selva Subcaducifolia Primario                  0   0.00           0.000
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                          1109798 100.00     277449.500
+
+Zonal Statistics:
+Majority:               16        Mean:                   14.8687
+Median:                 16        Minimum:                 1
+Maximum:                16        Range:                  16
+Diversity:               7        Std. Deviation:          3.9575
+Majority Count:    1025060        Majority %:             92.3646
+Sum:              16501220
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Selva Subcaducifolia Primario                                   
+Zone name: Zone 17
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                         2735   2.88         683.750
+      2 Arido-Semiárido (mezquital)                  173   0.18          43.250
+      3 Asentamientos                                 22   0.02           5.500
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                      0   0.00           0.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        0   0.00           0.000
+     10 Matorral desertico                           163   0.17          40.750
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                            43   0.05          10.750
+     13 Otras tierras                                  0   0.00           0.000
+     14 Pastizal                                      67   0.07          16.750
+     15 Selva Baja Caducifolia Primaria                0   0.00           0.000
+     16 Selva Baja Caducifolia Secundaria              0   0.00           0.000
+     17 Selva Subcaducifolia Primario              91757  96.63       22939.250
+     18 Vegetacion Hidrofila Lenoso Primario           0   0.00           0.000
+
+  Total                                            94960 100.00      23740.000
+
+Zonal Statistics:
+Majority:               17        Mean:                   16.4922
+Median:                 17        Minimum:                 1
+Maximum:                17        Range:                  17
+Diversity:               7        Std. Deviation:          2.7699
+Majority Count:      91757        Majority %:             96.6270
+Sum:               1566100
+Zone layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie3_20031
+Zone number Vegetacion Hidrofila Lenoso Primario                                 
+Zone name: Zone 18
+Class layer name: c:/informacion/vectoriales/inegi/matrial_cartas uso de suelo y vegetacion_cedes/rasters/serie4_20101
+
+  Class Class Name                                 Count    %          Hectares
+  ----- -------------------------------------- --------- ------ ---------------
+      0 Class 0                                        0   0.00           0.000
+      1 Agricola permanente                       232790   7.50       58197.500
+      2 Arido-Semiárido (mezquital)                 1502   0.05         375.500
+      3 Asentamientos                               3636   0.12         909.000
+      4 Bosque Cultivado                               0   0.00           0.000
+      5 Bosque de Coniferas Primario                   0   0.00           0.000
+      6 Bosque de Encino Primario                    176   0.01          44.000
+      7 Bosque de Encino Secundario                    0   0.00           0.000
+      8 Bosque Mesofilo de Montana Primario            0   0.00           0.000
+      9 Manglar                                        1   0.00           0.250
+     10 Matorral desertico                          4164   0.13        1041.000
+     11 Matorral Xerofilo Lenoso Secundario            0   0.00           0.000
+     12 NA                                            51   0.00          12.750
+     13 Otras tierras                               8918   0.29        2229.500
+     14 Pastizal                                 1636768  52.76      409192.000
+     15 Selva Baja Caducifolia Primaria             9116   0.29        2279.000
+     16 Selva Baja Caducifolia Secundaria              1   0.00           0.250
+     17 Selva Subcaducifolia Primario                230   0.01          57.500
+     18 Vegetacion Hidrofila Lenoso Primario     1204872  38.84      301218.000
+
+  Total                                          3102225 100.00     775556.250
+
+Zonal Statistics:
+Majority:               14        Mean:                   14.5538
+Median:                 14        Minimum:                 1
+Maximum:                18        Range:                  18
+Diversity:              13        Std. Deviation:          4.3396
+Majority Count:    1636768        Majority %:             52.7611
+Sum:              45149067
